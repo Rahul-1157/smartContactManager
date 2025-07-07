@@ -1,2 +1,2 @@
 # smartContactManager
-Website for Contact Manager which store and manipulate contacts.
+website for contact manager which store and manipulate contacts 
